@@ -3,3 +3,4 @@ Hi Mr: Pâmella
 print("Hello World")
 teaf
 police
+printf("Hello World")
